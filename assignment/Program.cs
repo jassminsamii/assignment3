@@ -39,6 +39,16 @@
             //int pages = 400;
             //AddBonusPages(pages);
             //Console.WriteLine(pages); 
+            //=======================================================================//
+            //question06
+            //static void ApplyDiscount(double[] prices)
+            //{
+            //    prices[0] = prices[0] - 5;
+            //}
+
+            //double[] prices = { 25.5, 40.0 };
+            //ApplyDiscount(prices);
+            //Console.WriteLine(prices[0]);
 
         }
     }
