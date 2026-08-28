@@ -68,7 +68,28 @@
             //double[] prices = { 25.5, 40.0, 33.75 };
             //ReplaceArray(ref prices);
             //Console.WriteLine(prices.Length);
+            //=======================================================================//
+            //question09
+            //static bool TryGetPrice(string title, out double price)
+            //{
+            //    if (title == "Clean Code")
+            //    {
+            //        price = 25.5;
+            //        return true;
+            //    }
+            //    else
+            //    {
+            //        price = 0;
+            //        return false;
+            //    }
+            //}
 
+            //if (TryGetPrice("Clean Code", out double price))
+            //{
+            //    Console.WriteLine(price);
+            //}
+            //==========================================================================//
+            //question10
         }
     }
 }
