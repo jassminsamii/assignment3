@@ -23,6 +23,15 @@
             //{
             //    PrintWelcomeMessage();
             //}
+            //==========================================================================//
+            //question04
+            //static void PrintBookTitle(string title)
+            //{
+            //    Console.WriteLine("Book title: " + title);
+            //}
+            //PrintBookTitle("Clean Code");
+
+
         }
     }
 }
