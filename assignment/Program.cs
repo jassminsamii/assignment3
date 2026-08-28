@@ -13,6 +13,16 @@
             //question02
             //int[,] shelfCopies = { { 3, 5 }, { 1, 4 } };
             //Console.WriteLine(shelfCopies[1, 0]);
+            //======================================================================//
+            //question03
+            //static void PrintWelcomeMessage()
+            //{
+            //    Console.WriteLine("Welcome to the Library!");
+            //}
+
+            //{
+            //    PrintWelcomeMessage();
+            //}
         }
     }
 }
