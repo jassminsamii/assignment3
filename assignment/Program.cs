@@ -102,6 +102,17 @@ namespace assignment
             //=========================================================================//
             //question11
             //PrintBookInfo(pages: 250, title: "1984");
+            //===================================================================//
+            //question12
+            //static void PrintAllTitles(params string[] titles)
+            //{
+            //    foreach (string title in titles)
+            //    {
+            //        Console.WriteLine(title);
+            //    }
+            //}
+
+            //PrintAllTitles("Clean Code", "1984", "The Hobbit");
         }
     }
 }
