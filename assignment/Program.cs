@@ -90,6 +90,13 @@
             //}
             //==========================================================================//
             //question10
+            //static void PrintBookInfo(string title, int pages = 300)
+            //{
+            //    Console.WriteLine("Title: " + title + ", Pages: " + pages);
+            //}
+
+            //PrintBookInfo("The Hobbit");        
+            //PrintBookInfo("The Hobbit", 350);   
         }
     }
 }
