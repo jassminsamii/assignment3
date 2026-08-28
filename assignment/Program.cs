@@ -58,6 +58,16 @@
             //int pages = 400;
             //AddBonusPagesByRef(ref pages);
             //Console.WriteLine(pages);
+            //==============================================================================//
+            //question08
+            //static void ReplaceArray(ref double[] prices)
+            //{
+            //    prices = new double[] { 10.0, 12.5, 15.0 };
+            //}
+
+            //double[] prices = { 25.5, 40.0, 33.75 };
+            //ReplaceArray(ref prices);
+            //Console.WriteLine(prices.Length);
 
         }
     }
